@@ -8,29 +8,22 @@ body{
     margin-bottom: 50px;
    
 }
-#textArea{
+.form-control{
     background-color: rgb(255, 255, 210);
-    margin: 50px;
-    height: 50%x;
-    width: 60%px;
-    font-size: 30px;
-    font-weight: 500;
+    margin-bottom: 50px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     border: 3px solid rgb(221, 221, 183);
-    border-radius: 20px;
-    
+    border-radius: 8px;
 }
 
-#finalArea{
+
+.finalArea{
     background-color: rgb(219, 255, 210);
-    margin: 50px;
-    height: 50%x;
-    width: 60%px;
-    font-size: 30px;
-    font-weight: 500;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     border: 3px solid  rgb(165, 195, 157); 
-    border-radius: 20px;
+    border-radius: 8px;
+    margin-top: 50px;
+
 
 }
 #moveBtn{
@@ -42,6 +35,7 @@ body{
     cursor: pointer;
     margin-right :15px;
 }
+
 #copyBtn{
     border: 3px solid  rgb(43, 204, 3);
     background-color: rgb(60, 255, 0);
@@ -59,6 +53,7 @@ body{
     font-size: 20px;
     cursor: pointer;
     margin :15px;
+
 }
 #removeText{
     border: 3px solid  rgb(9, 177, 126);
