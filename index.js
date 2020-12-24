@@ -26,7 +26,7 @@ MoveText.value = CopeidText;
 
  })
  const ClearAll = ClearBtn.addEventListener('click', function () {
-             const Clear = "";
+             const Clear = " ";
              CopyText.value = Clear;
              MoveText.value = Clear;
              OutputArea.value = Clear;
