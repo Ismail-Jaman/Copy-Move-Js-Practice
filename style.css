@@ -8,22 +8,21 @@ body{
     margin-bottom: 50px;
    
 }
-.form-control{
+#textArea{
     background-color: rgb(255, 255, 210);
     margin-bottom: 50px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     border: 3px solid rgb(221, 221, 183);
-    border-radius: 8px;
+    border-radius: 10px;
+    
 }
 
-
-.finalArea{
+#finalArea{
     background-color: rgb(219, 255, 210);
+    margin-top: 50px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     border: 3px solid  rgb(165, 195, 157); 
-    border-radius: 8px;
-    margin-top: 50px;
-
+    border-radius: 10px;
 
 }
 #moveBtn{
